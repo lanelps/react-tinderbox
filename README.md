@@ -2,7 +2,7 @@
 
 React boilerplate to make new projects easier to get started
 
-When cloning, run yarn to install all dependencies. Then yarn start to start up the server.
+When cloning, run `yarn` to install all dependencies. Then `yarn start` to start up the server.
 
 ## This boilerplate contains
 
