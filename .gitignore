@@ -64,7 +64,3 @@ typings/
 bundle.*
 
 node_modules
-
-# package.json lockfile
-yarn.lock
-package-lock.json
